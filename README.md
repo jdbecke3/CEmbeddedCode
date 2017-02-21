@@ -1,2 +1,2 @@
 # CEmbeddedCode
-Code for my c embedded code and pi code
+Collection of Code for my c embedded pi projects
